@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @MattiaTinfena
 - 👀 I’m interested in coding, automation, robotics, electronics, IoT, cryptocurrencies, finance, tech and sports.
-- 🌱 I’m currently following the master degree in robotics and automation at university of pisa
+- 👨‍🎓 Bachelor degree in electronics engineering at University of Pisa.
+- 🌱 I’m currently following the master degree in robotics and automation engineering at University of Pisa.
+- 💻 Coding language: C, C++, Atmel AVR Assembly. 
 - 📫 How to reach me https://www.linkedin.com/in/mattia-tinfena-9b9557195
 
 <!---
