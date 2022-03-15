@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MattiaTinfena
+- 👋 Hello world, I’m @MattiaTinfena
 - 👀 I’m interested in coding, automation, robotics, electronics, IoT, cryptocurrencies, finance, tech and sports.
 - 👨‍🎓 Bachelor degree in electronics engineering at University of Pisa.
 - 🌱 I’m currently following the master degree in robotics and automation engineering at University of Pisa.
