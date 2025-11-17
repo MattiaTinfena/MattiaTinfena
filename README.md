@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, automation, robotics, electronics, IoT, cryptocurrencies, finance, tech and sports.
 - 👨‍🎓 Bachelor degree in electronics engineering at University of Pisa.
 - 🌱 I’m currently following the master degree in robotics engineering at University of Genova.
-- 💻 Coding language: C, C++, Atmel AVR Assembly, python, PDDL.
+- 💻 Coding language: C, C++, Verilog, SystemVerilog, Atmel AVR Assembly, python, PDDL+.
 - 🦾 Frameworks: ROS, ROS2.
 - 📫 How to reach me https://www.linkedin.com/in/mattia-tinfena-9b9557195
 
